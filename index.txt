@@ -1,1 +1,2 @@
-tthis is version 2 of soft ... this is changed from git hub 
+This is version 2 of soft ... this is changed from git hub 
+This has been changed from Remote Github online 
