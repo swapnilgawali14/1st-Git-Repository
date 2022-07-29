@@ -1,1 +1,2 @@
 This is setting file 
+use to define settings for the project 
